@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLLite</string>
+    <string name="dbDROP">DROP TABLE IF EXISTS</string>
+</resources>
